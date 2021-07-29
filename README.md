@@ -2,6 +2,6 @@
 Set a random wallpaper from a directory [files] of wallpapers
 
 # use
-
+only .jpg files...
 rename directories<br>
 `./walls.sh`
